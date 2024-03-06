@@ -116,6 +116,11 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+scholar:
+  source: ./_bibliography
+  bibliography: references.bib
+  style: apa
+
 
 # Social Sharing
 twitter:
