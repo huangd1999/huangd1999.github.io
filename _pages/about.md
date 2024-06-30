@@ -1,12 +1,28 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+
+I am a third-year PhD student (2021–present) in the Computer Science Department at The University of Hong Kong, under the supervision of Prof. [Heming Cui](https://i.cs.hku.hk/~heming/). I also closely collaborated with [Dr. Jie M.Zhang](https://sites.google.com/view/jie-zhang), [Dr. Xiaofei Xie](https://xiaofeixie.bitbucket.io/), and [Dr. Junjie Chen](https://tjusail.github.io/people/chenjunjie/).
+
+Before my current program, I earned a Bachelor of Engineering degree from Huazhong University of Science and Technology with outstanding graduate honors.
+
+I am broadly interested in code generation tasks, such as Multi-Agent Code Generation, Correctness,  Efficiency, Fairness of LLM-generated Code, and Reasoning in Code. Before that, I was focusing on the Trust AI systems, specifically in the development of testing techniques for deep learning systems. For my previous work and current code generation works, I prefer naming them as **testing** (e.g., testing the security, correctness, efficiency, and fairness). During my PhD study, I have dedicated myself to constructing deep learning testing frameworks and evaluating the fairness and efficiency of existing code generation models. My work has been published in several conferences and journals, including the ICLR, ICCV, ICRA, and TPDS, where I have served as the first author or corresponding author on two papers.
+
+You can find my CV here: [Dong’s CV](../Dong%20HUANG.pdf)
+
+Please do not hesitate to contact me if you have any questions regarding my work or if you are interested in discussing research topics!
+
+
+
+
+
+<!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -18,11 +34,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
@@ -46,4 +62,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
