@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dong HUANG"
 title_separator          : "-"
 name                     : &name "Dong HUANG"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "huangd1999/huangd1999.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Dong.jpg"
+  avatar           : "Dong.png"
   name             : "Dong HUANG"
   pronouns         : # example: "she/her"  
   bio              : "Rm 414, Chow Yei Ching Building, Pok Fu Lam Road, dhuang@cs.hku.hk"
