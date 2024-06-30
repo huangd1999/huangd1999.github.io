@@ -24,7 +24,7 @@ Please do not hesitate to contact me if you have any questions regarding my work
   <li><strong>May 9, 2024</strong>: Our paper "Neuron Sensitivity Guided Test Case Selection" was accepted by TOSEM.</li>
   <li><strong>January 29, 2024</strong>: Our paper "AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments" was accepted by ICLR'24.</li>
   <li><strong>January 16, 2024</strong>: Our paper "Adversarial Feature Map Pruning for Backdoor" was accepted by ICLR'24.</li>
-  <li><strong>July 18, 2023</strong>: One research paper "Towards building more robust models with frequency bias" was accepted by ICCV'23.</li>
+  <li><strong>July 18, 2023</strong>: One paper "Towards building more robust models with frequency bias" was accepted by ICCV'23.</li>
 </ul>
 
 
