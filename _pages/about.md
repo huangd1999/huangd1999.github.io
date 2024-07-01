@@ -110,7 +110,7 @@ Please do not hesitate to contact me if you have any questions regarding my work
 
 <h2 style="color: green;">Media Coverage</h2>
 
-[Artificial Intelligence Index Report 2024 - Stanford University](https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_2024_AI-Index-Report.pdf), [The latest on global AI development](https://www.lexology.com/library/detail.aspx?g=b4944624-e43c-4bfc-9986-2be1af5e9595), [Build Your Own Devin!](https://medium.com/@rohanbalkondekar/build-your-own-devin-8d8794266315)
+[Artificial Intelligence Index Report 2024 - Stanford University](https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_2024_AI-Index-Report.pdf), [The latest on global AI development](https://www.lexology.com/library/detail.aspx?g=b4944624-e43c-4bfc-9986-2be1af5e9595), [Build Your Own Devin!](https://medium.com/@rohanbalkondekar/build-your-own-devin-8d8794266315)  
 
 <h2 style="color: green;">Teaching</h2>
 
