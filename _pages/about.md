@@ -33,10 +33,37 @@ Please do not hesitate to contact me if you have any questions regarding my work
 
 ### Preprint
 
-1. **Neuron Sensitivity Guided Test Case Selection**  
-   **Dong HUANG**, Qingwen Bu, Yichao Fu, Yuhao Qing, Xiaofei Xie, Junjie Chen, Heming Cui
-   *In: ACM Transactions on Software Engineering and Methodology, 2024*  
+1. **Agentcoder: Multi-agent-based code generation with iterative testing and optimisation**  
+   **Dong HUANG**, Qingwen Bu, Jie M Zhang, Michael Luck, Heming Cui
+   *arXiv preprint arXiv:2312.13010*  
 
+2. **Bias assessment and mitigation in llm-based code generation**  
+   **Dong HUANG**, Qingwen Bu, Jie Zhang, Xiaofei Xie, Junjie Chen, Heming Cui
+   *arXiv preprint arXiv:2312.13010*  
+
+3. **CodeCoT: Tackling Code Syntax Errors in CoT Reasoning for Code Generation**  
+   **Dong HUANG**, Qingwen Bu, Yuhao Qing, Heming Cui
+   *arXiv preprint arXiv:2312.13010*  
+
+4. **SOAP: Enhancing Efficiency of Generated Code via Self-Optimization**  
+   **Dong HUANG**, Jianbo Dai, Han Weng, Puzhen Wu, Yuhao Qing, Jie M Zhang, Heming Cui, Zhijiang Guo
+   *arXiv preprint arXiv:2405.15189*  
+
+5. **EffiBench: Benchmarking the Efficiency of Automatically Generated Code**  
+   **Dong HUANG**, Yuhao Qing, Weiyi Shang, Heming Cui, Jie M.Zhang
+   *arXiv preprint arXiv:2402.02037*  
+
+6. **Feature Map Testing for Deep Neural Networks**  
+   **Dong HUANG**, Qingwen Bu, Yahao Qing, Yichao Fu, Heming Cui
+   *arXiv preprint arXiv:2307.11563*  
+
+7. **Themis: Automatic and Efficient Deep Learning System Testing with Strong Fault Detection Capability**  
+   **Dong HUANG**, Xiaofei Xie, Heming Cui
+   *arXiv preprint arXiv:2312.13010*  
+
+8. **Two Heads are Better than One: Robust Learning Meets Multi-branch Models**  
+   **Dong HUANG**, Qingwen Bu, Yuhao Qing, Haowen Pi, Sen Wang, Heming Cui
+   *arXiv preprint arXiv:2312.13010*  
 
 ### Conference
 
@@ -48,8 +75,17 @@ Please do not hesitate to contact me if you have any questions regarding my work
    Qingwen Bu, **Dong HUANG✝**, Heming Cui  
    *In: Proceedings of the IEEE/CVF International Conference on Computer Vision, PARIS, October 2 - 6, 2023*  
 
+3. **[ICRA'24] AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments**
+   Junming Wang, Zekai Sun, Xiuxian Guan, Tianxiang Shen, Zongyuan Zhang, Tianyang Duan, **Dong Huang**, Shixiong Zhao, Heming Cui
+   *arXiv preprint arXiv:2403.11607*
+
+
 ### Journal
 
 1. **[TOSEM'24] Neuron Sensitivity Guided Test Case Selection**  
    **Dong HUANG**, Qingwen Bu, Yichao Fu, Yuhao Qing, Xiaofei Xie, Junjie Chen, Heming Cui
    *In: ACM Transactions on Software Engineering and Methodology, 2024*  
+
+2. **[TPDS'21] vPipe: A Virtualized Acceleration System for Achieving Efficient and Scalable Pipeline Parallel DNN Training**  
+   Shixiong Zhao, Fanxin Li, Xusheng Chen, Xiuxian Guan, Jianyu Jiang, **Dong Huang**, Yuhao Qing, Sen Wang, Peng Wang, Gong Zhang, Cheng Li, Ping Luo, Heming Cui
+   *In: IEEE Transactions on Parallel and Distributed Systems, 2021*  
