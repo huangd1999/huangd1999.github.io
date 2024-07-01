@@ -29,7 +29,14 @@ Please do not hesitate to contact me if you have any questions regarding my work
   <li><strong>July 18, 2023</strong>: One paper "Towards building more robust models with frequency bias" was accepted by ICCV'23.</li>
 </ul>
 
-<h2 style="color: green;">Publications (* refers to the corresponding author)</h2>
+<h2 style="color: green;">Publications (✝ refers to the corresponding author)</h2>
+
+### Preprint
+
+1. **Neuron Sensitivity Guided Test Case Selection**  
+   **Dong HUANG**, Qingwen Bu, Yichao Fu, Yuhao Qing, Xiaofei Xie, Junjie Chen, Heming Cui
+   *In: ACM Transactions on Software Engineering and Methodology, 2024*  
+
 
 ### Conference
 
@@ -38,7 +45,7 @@ Please do not hesitate to contact me if you have any questions regarding my work
    *In: The Twelfth International Conference on Learning Representations, Messe Wien Exhibition and Congress Center, Vienna Austria May 7th, 2024 to May 11th, 2024*  
 
 2. **[ICCV'23] Towards building more robust models with frequency bias**  
-   Qingwen Bu, **Dong HUANG***, Heming Cui  
+   Qingwen Bu, **Dong HUANG✝**, Heming Cui  
    *In: Proceedings of the IEEE/CVF International Conference on Computer Vision, PARIS, October 2 - 6, 2023*  
 
 ### Journal
