@@ -89,3 +89,36 @@ Please do not hesitate to contact me if you have any questions regarding my work
 2. **[TPDS'21] vPipe: A Virtualized Acceleration System for Achieving Efficient and Scalable Pipeline Parallel DNN Training**  
    Shixiong Zhao, Fanxin Li, Xusheng Chen, Xiuxian Guan, Jianyu Jiang, **Dong Huang**, Yuhao Qing, Sen Wang, Peng Wang, Gong Zhang, Cheng Li, Ping Luo, Heming Cui  
    *In: IEEE Transactions on Parallel and Distributed Systems, 2021*  
+
+
+<h2 style="color: green;">Work Experience</h2>
+
+<ul>
+
+  <li><strong>Research Intern @</strong>: HUAWEI Theory Lab, Hong Kong (2022), working with Qintao Hu and Sen Wang</li>  
+  <li><strong>Research Intern @</strong>: HUAWEI Noah's Ark Lab, Shenzhen (2024), working with Jianbo Dai and Zhijiang Guo</li>  
+
+</ul>
+
+<h2 style="color: green;">Services</h2>
+
+<ul>
+
+  <li><strong>Reviewers</strong>: ICASSP (2024), NeurIPS (2024), NeurIPS Dataset and Benchmark Track (2024), ACL ARR (e.g., NAACL, EMNLP, ACL) (2024)</li>
+
+</ul>
+
+<h2 style="color: green;">Media Coverage</h2>
+
+<ul>
+
+  [Artificial Intelligence Index Report 2024 - Stanford University](https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_2024_AI-Index-Report.pdf), [The latest on global AI development](https://www.lexology.com/library/detail.aspx?g=b4944624-e43c-4bfc-9986-2be1af5e9595), [Build Your Own Devin!](https://medium.com/@rohanbalkondekar/build-your-own-devin-8d8794266315)
+
+</ul>
+
+<h2 style="color: green;">Teaching</h2>
+
+<ul>
+  <li><strong>COMP7506 A</strong>: Smart phone apps development, Spring 2024</li>
+  <li><strong>COMP7506 B</strong>: Smart phone apps development, Spring 2024</li>
+</ul>
