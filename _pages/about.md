@@ -35,8 +35,14 @@ Please do not hesitate to contact me if you have any questions regarding my work
 
 1. **[ICLR'24] Adversarial Feature Map Pruning for Backdoor**  
    **Dong HUANG**, Qingwen Bu, Heming Cui  
-   *In: The 32nd USENIX Security Symposium, August 9-11, 2023, pages to appear, Anaheim, CA, USA*  
-   <!-- <span style="color:blue">(CCF-A)</span> -->
+   *In: The Twelfth International Conference on Learning Representations, Messe Wien Exhibition and Congress Center, Vienna Austria May 7th, 2024 to May 11th, 2024*  
 
+2. **[ICCV'23] Towards building more robust models with frequency bias**  
+   Qingwen Bu, **Dong HUANG***, Heming Cui  
+   *In: Proceedings of the IEEE/CVF International Conference on Computer Vision, PARIS, October 2 - 6, 2023*  
 
+### Journal
 
+1. **[TOSEM'24] Neuron Sensitivity Guided Test Case Selection**  
+   **Dong HUANG**, Qingwen Bu, Yichao Fu, Yuhao Qing, Xiaofei Xie, Junjie Chen, Heming Cui
+   *In: ACM Transactions on Software Engineering and Methodology, 2024*  
