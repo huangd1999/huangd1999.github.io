@@ -91,6 +91,8 @@ Please do not hesitate to contact me if you have any questions regarding my work
    *In: IEEE Transactions on Parallel and Distributed Systems, 2021*  
 
 
+
+
 <h2 style="color: green;">Work Experience</h2>
 
 <ul>
@@ -108,6 +110,22 @@ Please do not hesitate to contact me if you have any questions regarding my work
 
 </ul>
 
+
+<h2 style="color: green;">Research Mentoring</h2>
+
+I am fortunate to be working with the following talented students and interns:
+
+<ul>
+
+  <li><strong>Qingwen Bu</strong>: Undergrad at HUST, to PhD at SJTU-PJLab</li>
+  <li><strong>Junming Wang</strong>: Mphil at HKU, to Horizon Robotics</li>
+  <li><strong>Zhiguang Han</strong>: Undergrad at NTU</li>
+  <li><strong>Weng Han</strong>: Master at BUPT</li>
+  <li><strong>Puzhen Wu</strong>: Undergrad at UCD</li>
+</ul>
+
+
+
 <h2 style="color: green;">Media Coverage</h2>
 
 [Artificial Intelligence Index Report 2024 - Stanford University](https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_2024_AI-Index-Report.pdf), [The latest on global AI development](https://www.lexology.com/library/detail.aspx?g=b4944624-e43c-4bfc-9986-2be1af5e9595), [Build Your Own Devin!](https://medium.com/@rohanbalkondekar/build-your-own-devin-8d8794266315)  
@@ -117,4 +135,11 @@ Please do not hesitate to contact me if you have any questions regarding my work
 <ul>
   <li><strong>COMP7506 A</strong>: Smart phone apps development, Spring 2024</li>
   <li><strong>COMP7506 B</strong>: Smart phone apps development, Spring 2024</li>
+</ul>
+
+<h2 style="color: green;">Education</h2>
+
+<ul>
+  <li><strong>The University of Hong Kong</strong>: 2021-Current</li>
+  <li><strong>Huazhong Univeristy of Science and Technology</strong>: 2017-2021</li>
 </ul>
