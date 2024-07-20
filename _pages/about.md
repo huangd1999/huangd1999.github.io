@@ -39,11 +39,11 @@ Please do not hesitate to contact me if you have any questions regarding my work
 
 2. **Bias assessment and mitigation in llm-based code generation**  
    **Dong HUANG**, Qingwen Bu, Jie Zhang, Xiaofei Xie, Junjie Chen, Heming Cui  
-   *arXiv preprint arXiv:2312.13010*  
+   *arXiv preprint arXiv:2309.14345*  
 
 3. **CodeCoT: Tackling Code Syntax Errors in CoT Reasoning for Code Generation**  
    **Dong HUANG**, Qingwen Bu, Yuhao Qing, Heming Cui  
-   *arXiv preprint arXiv:2312.13010*  
+   *arXiv preprint arXiv:2308.08784*  
 
 4. **SOAP: Enhancing Efficiency of Generated Code via Self-Optimization**  
    **Dong HUANG**, Jianbo Dai, Han Weng, Puzhen Wu, Yuhao Qing, Jie M Zhang, Heming Cui, Zhijiang Guo  
@@ -59,11 +59,11 @@ Please do not hesitate to contact me if you have any questions regarding my work
 
 7. **Themis: Automatic and Efficient Deep Learning System Testing with Strong Fault Detection Capability**  
    **Dong HUANG**, Xiaofei Xie, Heming Cui  
-   *arXiv preprint arXiv:2312.13010*  
+   *arXiv preprint arXiv:2405.09314*  
 
 8. **Two Heads are Better than One: Robust Learning Meets Multi-branch Models**  
    **Dong HUANG**, Qingwen Bu, Yuhao Qing, Haowen Pi, Sen Wang, Heming Cui  
-   *arXiv preprint arXiv:2312.13010*  
+   *arXiv preprint arXiv:2208.08083*  
 
 ### Conference
 
