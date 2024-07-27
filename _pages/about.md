@@ -58,25 +58,25 @@ Please do not hesitate to contact me if you have any questions regarding my work
    **Dong HUANG**, Qingwen Bu, Yahao Qing, Yichao Fu, Heming Cui  
    *arXiv preprint arXiv:2307.11563*  
 
-7. **Themis: Automatic and Efficient Deep Learning System Testing with Strong Fault Detection Capability**  
-   **Dong HUANG**, Xiaofei Xie, Heming Cui  
-   *arXiv preprint arXiv:2405.09314*  
 
-8. **Two Heads are Better than One: Robust Learning Meets Multi-branch Models**  
+7. **Two Heads are Better than One: Robust Learning Meets Multi-branch Models**  
    **Dong HUANG**, Qingwen Bu, Yuhao Qing, Haowen Pi, Sen Wang, Heming Cui  
    *arXiv preprint arXiv:2208.08083*  
 
 ### Conference
 
-1. **[ICLR'24] Adversarial Feature Map Pruning for Backdoor**  
+1. **[ISSRE'24] Themis: Automatic and Efficient Deep Learning System Testing with Strong Fault Detection Capability**  
+   **Dong HUANG**, Li Tsz On, Xiaofei Xie, Heming Cui  
+   *arXiv preprint arXiv:2405.09314*  
+2. **[ICLR'24] Adversarial Feature Map Pruning for Backdoor**  
    **Dong HUANG**, Qingwen Bu, Heming Cui  
    *In: The Twelfth International Conference on Learning Representations, Messe Wien Exhibition and Congress Center, Vienna Austria May 7th, 2024 to May 11th, 2024*  
 
-2. **[ICCV'23] Towards building more robust models with frequency bias**  
+3. **[ICCV'23] Towards building more robust models with frequency bias**  
    Qingwen Bu, **Dong HUANG✝**, Heming Cui  
    *In: Proceedings of the IEEE/CVF International Conference on Computer Vision, PARIS, October 2 - 6, 2023*  
 
-3. **[ICRA'24] AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments**
+4. **[ICRA'24] AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments**
    Junming Wang, Zekai Sun, Xiuxian Guan, Tianxiang Shen, Zongyuan Zhang, Tianyang Duan, **Dong Huang**, Shixiong Zhao, Heming Cui  
    *arXiv preprint arXiv:2403.11607*
 
