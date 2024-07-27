@@ -23,6 +23,7 @@ Please do not hesitate to contact me if you have any questions regarding my work
 <h2 style="color: red;">News</h2>
 
 <ul>
+  <li><strong>July 27, 2024</strong>: Our paper "Themis: Automatic and Efficient Deep Learning System Testing with Strong Fault Detection Capability" was accepted by ISSRE.</li>
   <li><strong>May 9, 2024</strong>: Our paper "Neuron Sensitivity Guided Test Case Selection" was accepted by TOSEM.</li>
   <li><strong>January 29, 2024</strong>: Our paper "AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments" was accepted by ICLR'24.</li>
   <li><strong>January 16, 2024</strong>: Our paper "Adversarial Feature Map Pruning for Backdoor" was accepted by ICLR'24.</li>
